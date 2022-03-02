@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-samurai/static/css/main.5320ebcc.chunk.css",
+    "main.js": "/react-samurai/static/js/main.ea09c239.chunk.js",
+    "main.js.map": "/react-samurai/static/js/main.ea09c239.chunk.js.map",
+    "runtime~main.js": "/react-samurai/static/js/runtime~main.aab5a6c6.js",
+    "runtime~main.js.map": "/react-samurai/static/js/runtime~main.aab5a6c6.js.map",
+    "static/js/2.710f0f92.chunk.js": "/react-samurai/static/js/2.710f0f92.chunk.js",
+    "static/js/2.710f0f92.chunk.js.map": "/react-samurai/static/js/2.710f0f92.chunk.js.map",
+    "static/css/3.7b30ca21.chunk.css": "/react-samurai/static/css/3.7b30ca21.chunk.css",
+    "static/js/3.b2e0e489.chunk.js": "/react-samurai/static/js/3.b2e0e489.chunk.js",
+    "static/js/3.b2e0e489.chunk.js.map": "/react-samurai/static/js/3.b2e0e489.chunk.js.map",
+    "static/css/4.c50746bd.chunk.css": "/react-samurai/static/css/4.c50746bd.chunk.css",
+    "static/js/4.32537389.chunk.js": "/react-samurai/static/js/4.32537389.chunk.js",
+    "static/js/4.32537389.chunk.js.map": "/react-samurai/static/js/4.32537389.chunk.js.map",
+    "static/css/5.0301840e.chunk.css": "/react-samurai/static/css/5.0301840e.chunk.css",
+    "static/js/5.7db3c3a5.chunk.js": "/react-samurai/static/js/5.7db3c3a5.chunk.js",
+    "static/js/5.7db3c3a5.chunk.js.map": "/react-samurai/static/js/5.7db3c3a5.chunk.js.map",
+    "index.html": "/react-samurai/index.html",
+    "precache-manifest.1935730e38bf1b69001f06e6b0b11680.js": "/react-samurai/precache-manifest.1935730e38bf1b69001f06e6b0b11680.js",
+    "service-worker.js": "/react-samurai/service-worker.js",
+    "static/css/3.7b30ca21.chunk.css.map": "/react-samurai/static/css/3.7b30ca21.chunk.css.map",
+    "static/css/4.c50746bd.chunk.css.map": "/react-samurai/static/css/4.c50746bd.chunk.css.map",
+    "static/css/5.0301840e.chunk.css.map": "/react-samurai/static/css/5.0301840e.chunk.css.map",
+    "static/css/main.5320ebcc.chunk.css.map": "/react-samurai/static/css/main.5320ebcc.chunk.css.map",
+    "static/media/preloader.svg": "/react-samurai/static/media/preloader.6e7c9db7.svg",
+    "static/media/user.png": "/react-samurai/static/media/user.8b1dbb1f.png"
+  }
+}
